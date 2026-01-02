@@ -60,3 +60,6 @@ I am a Full Stack programmer, and the languages I excel in are HTML, CSS, JavaSc
 <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+##
+![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
+
